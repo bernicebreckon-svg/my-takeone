@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Take One AI Consulting",
+    "description": "",
+    "home_page_url": "https://takeone.nz",
+    "feed_url": "https://takeone.nz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bernice Breckon"
+    },
+    "items": [
+        {
+            "id": "https://takeone.nz/take-one-services.html",
+            "url": "https://takeone.nz/take-one-services.html",
+            "title": "Take One Services",
+            "author": {
+                "name": "Bernice Breckon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-03T10:48:17+12:00",
+            "date_modified": "2026-08-03T10:48:17+12:00"
+        }
+    ]
+}

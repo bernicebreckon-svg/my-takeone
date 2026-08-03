@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Take One AI Consulting</title>
+    <link href="https://takeone.nz/feed.xml" rel="self" />
+    <link href="https://takeone.nz" />
+    <updated>2026-08-03T10:48:17+12:00</updated>
+    <author>
+        <name>Bernice Breckon</name>
+    </author>
+    <id>https://takeone.nz</id>
+
+    <entry>
+        <title>Take One Services</title>
+        <author>
+            <name>Bernice Breckon</name>
+        </author>
+        <link href="https://takeone.nz/take-one-services.html"/>
+        <id>https://takeone.nz/take-one-services.html</id>
+
+        <updated>2026-08-03T10:48:17+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
