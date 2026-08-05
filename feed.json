@@ -11,6 +11,47 @@
     },
     "items": [
         {
+            "id": "https://takeone.nz/contact-us.html",
+            "url": "https://takeone.nz/contact-us.html",
+            "title": "Contact Us",
+            "summary": "Your AI Professional awaits you!",
+            "content_html": "<p>Your AI Professional awaits you!</p>",
+            "author": {
+                "name": "Bernice Breckon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-04T23:33:38+12:00",
+            "date_modified": "2026-08-04T23:33:38+12:00"
+        },
+        {
+            "id": "https://takeone.nz/services.html",
+            "url": "https://takeone.nz/services.html",
+            "title": "Services",
+            "summary": "List all the AI Services to be provided.",
+            "content_html": "<p>List all the AI Services to be provided.</p>",
+            "author": {
+                "name": "Bernice Breckon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-04T23:33:00+12:00",
+            "date_modified": "2026-08-04T23:33:00+12:00"
+        },
+        {
+            "id": "https://takeone.nz/about-us.html",
+            "url": "https://takeone.nz/about-us.html",
+            "title": "About Us",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://takeone.nz/media/posts/2/blue-metallic-bcma-logo.png\" height=\"112\" width=\"206\" alt=\"\"  sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://takeone.nz/media/posts/2/responsive/blue-metallic-bcma-logo-xs.png 300w ,https://takeone.nz/media/posts/2/responsive/blue-metallic-bcma-logo-sm.png 480w ,https://takeone.nz/media/posts/2/responsive/blue-metallic-bcma-logo-md.png 768w\">\n      \n    </figure>",
+            "author": {
+                "name": "Bernice Breckon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-04T23:32:28+12:00",
+            "date_modified": "2026-08-04T23:32:28+12:00"
+        },
+        {
             "id": "https://takeone.nz/take-one-services.html",
             "url": "https://takeone.nz/take-one-services.html",
             "title": "Take One Services",
@@ -22,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2026-08-03T10:48:17+12:00",
-            "date_modified": "2026-08-04T21:02:39+12:00"
+            "date_modified": "2026-08-04T23:38:18+12:00"
         }
     ]
 }
